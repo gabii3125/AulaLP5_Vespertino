@@ -11,8 +11,8 @@ import javax.swing.JTextField;
  *
  * @author u06075330135
  */
-public class Utill {
-    public void habilitar(boolean  valor, JComponent ... componentes){
+public class Util {
+    public  static void habilitar(boolean  valor, JComponent ... componentes){
         for (int i = 0; i < componentes.length; i++) {
              componentes[i].setEnabled(valor);
             
