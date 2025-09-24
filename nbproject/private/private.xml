@@ -3,8 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/u06075330135/Documents/NetBeansProjects/AulaLP5/src/view/JDlgUsuarios.java</file>
-            <file>file:/C:/Users/u06075330135/Documents/NetBeansProjects/AulaLP5/src/tools/Utill.java</file>
+            <file>file:/C:/Users/u06075330135/Documents/NetBeansProjects/AulaLP5_Vespertino/src/bean/Vendedor.java</file>
+            <file>file:/C:/Users/u06075330135/Documents/NetBeansProjects/AulaLP5_Vespertino/src/dao/ProdutosDAO.java</file>
+            <file>file:/C:/Users/u06075330135/Documents/NetBeansProjects/AulaLP5_Vespertino/src/dao/UsuariosDAO.java</file>
+            <file>file:/C:/Users/u06075330135/Documents/NetBeansProjects/AulaLP5_Vespertino/src/dao/HibernateUtil.java</file>
+            <file>file:/C:/Users/u06075330135/Documents/NetBeansProjects/AulaLP5_Vespertino/src/bean/Produtos.java</file>
+            <file>file:/C:/Users/u06075330135/Documents/NetBeansProjects/AulaLP5_Vespertino/src/bean/Clientes.java</file>
+            <file>file:/C:/Users/u06075330135/Documents/NetBeansProjects/AulaLP5_Vespertino/src/bean/Pedidos.java</file>
+            <file>file:/C:/Users/u06075330135/Documents/NetBeansProjects/AulaLP5_Vespertino/src/dao/AbstractDAO.java</file>
+            <file>file:/C:/Users/u06075330135/Documents/NetBeansProjects/AulaLP5_Vespertino/src/bean/Usuarios.java</file>
+            <file>file:/C:/Users/u06075330135/Documents/NetBeansProjects/AulaLP5_Vespertino/src/bean/PedidosProdutos.java</file>
         </group>
     </open-files>
 </project-private>

@@ -43,8 +43,9 @@ public class Util {
         JOptionPane.showMessageDialog(null, cad);
     }
 
-    public static void pergunta(String cad) {
-        JOptionPane.showConfirmDialog(null, cad);   
+    public static boolean pergunta(String cad) {
+        JOptionPane.showConfirmDialog(null, cad); 
+       return true;
 
     }
 
